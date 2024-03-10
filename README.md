@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Django<br></p>
+<p align="left">✨ Creating bugs since 2022<br><br>📚 I'm currently learning Django<br></p>
 
 
 ###
