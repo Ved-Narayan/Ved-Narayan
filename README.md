@@ -1,6 +1,13 @@
 <h2 align="left">Hi 👋! My name is Ved Narayan Munipalli and I'm an Aspiring Individual, from Andhra Pradesh , India</h2>
 
 ###
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Django<br></p>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ved-Narayan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -8,6 +15,7 @@
 </div>
 
 ###
+<h2 align="left">I code with</h2>
 <br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
@@ -26,6 +34,7 @@
 </div>
 
 ###
+<h2 align="left">You can reach me</h2>
 <br>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
