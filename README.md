@@ -34,8 +34,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ved-Narayan/Ved-Narayan/output/snake.svg" alt="Snake animation" />
-
-### 
