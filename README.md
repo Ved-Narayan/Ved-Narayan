@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ved Narayan Munipalli and I'm an aspiring individual, from Andhra Pradesh , India</h2>
+<h2 align="left">Hi 👋! My name is Ved Narayan Munipalli and I'm an Aspiring Individual, from Andhra Pradesh , India</h2>
 
 ###
 
